@@ -1,6 +1,6 @@
 Name:		texlive-cluttex
 Version:	60964
-Release:	1
+Release:	2
 Summary:	An automation tool for running LaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/cluttex
