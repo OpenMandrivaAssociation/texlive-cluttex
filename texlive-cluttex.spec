@@ -3,7 +3,7 @@ Version:	60964
 Release:	2
 Summary:	An automation tool for running LaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/cluttex
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/cluttex
 License:	gpl3+
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/cluttex.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/cluttex.doc.r%{version}.tar.xz
